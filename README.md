@@ -21,6 +21,7 @@ are predicted using predictive algorithms and the opinion is expressed using gra
 word cloud and tables.
 
 System Requirements
+
 ➢	Installation of R Studio
 
 ➢	Twitter developer account set up
